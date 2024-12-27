@@ -1,0 +1,8 @@
+BOM (Bill of Materials)
+This folder contains the Bill of Materials (BOM) for the ESP12 Board. The BOM lists all components used in the project, including:
+
+Part numbers
+Quantities
+Specifications
+Manufacturer details
+Use this file to streamline component procurement and ensure compatibility with the schematic and PCB design. It’s an essential resource for assembling the board accurately and efficiently.
